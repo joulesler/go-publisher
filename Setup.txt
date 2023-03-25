@@ -1,0 +1,5 @@
+Initialise the repository (One-time)
+$ go init publisher
+
+Initialise the modules (one-time)
+$ go mod tidy
